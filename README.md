@@ -1,0 +1,1 @@
+# algoritimoGenerico
